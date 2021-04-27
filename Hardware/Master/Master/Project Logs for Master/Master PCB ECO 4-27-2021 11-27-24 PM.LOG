@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RX_ESP Pin=T1-1
+Removed Pin From Net: NetName=TX_ESP Pin=T1-2
+Removed Pin From Net: NetName=RX_2 Pin=T1-11
+Removed Pin From Net: NetName=TX_2 Pin=T1-12
+Added Pin To Net: NetName=RX_ESP Pin=T1-5
+Added Pin To Net: NetName=TX_ESP Pin=T1-6
+Added Pin To Net: NetName=RX_2 Pin=T1-7
+Added Pin To Net: NetName=TX_2 Pin=T1-8
+Added Room: Name=Master

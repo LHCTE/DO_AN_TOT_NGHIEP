@@ -1,0 +1,20 @@
+Added Component: Designator=T1(TTL)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61301221821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX_ESP Pin=T1-1
+Added Pin To Net: NetName=TX_ESP Pin=T1-2
+Added Pin To Net: NetName=+3.3 Pin=T1-3
+Added Pin To Net: NetName=GND Pin=T1-4
+Added Pin To Net: NetName=GND Pin=T1-9
+Added Pin To Net: NetName=+5 Pin=T1-10
+Added Pin To Net: NetName=RX_2 Pin=T1-11
+Added Pin To Net: NetName=TX_2 Pin=T1-12
+Added Member To Class: ClassName=Master Member=Component T1 TTL
+Added Room: Name=Master
