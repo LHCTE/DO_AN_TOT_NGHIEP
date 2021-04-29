@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=M2 NewDesignator=M3
-Change Component Designator: OldDesignator=M3 NewDesignator=M4
-Change Component Designator: OldDesignator=M4 NewDesignator=M5
-Added Component: Designator=M2(VIT - 3.2MM_2)
-Added Member To Class: ClassName=Master Member=Component M5 VIT - 3.2mm
