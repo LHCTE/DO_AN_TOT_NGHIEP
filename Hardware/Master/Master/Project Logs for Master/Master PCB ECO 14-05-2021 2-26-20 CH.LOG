@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=44 Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=40 Pin=SW2-2
+Removed Pin From Net: NetName=RX_ESP Pin=T1-5
+Removed Pin From Net: NetName=TX_ESP Pin=T1-6
+Removed Pin From Net: NetName=40 Pin=U1-67
+Removed Pin From Net: NetName=44 Pin=U1-71
+Removed Member From Class: ClassName=Master Member=M5
+Removed Member From Class: ClassName=Master Member=SW1
+Removed Member From Class: ClassName=Master Member=SW2
+Change Component Designator: OldDesignator=M3 NewDesignator=M2
+Change Component Designator: OldDesignator=M4 NewDesignator=M3
+Change Component Designator: OldDesignator=M5 NewDesignator=M4
+Change component parameters: Designator = "T1" ("T1"); Footprint = "TTL"; UniqueID = "\QJZJVYMM" ("\QJZJVYMM")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "WÅN1rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "61301221821"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW-DIP2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No."; Value = "418127160902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole"; Value = "02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX_ESP Pin=S1-1
+Added Pin To Net: NetName=TX_ESP Pin=S1-2
+Added Pin To Net: NetName=44 Pin=S1-3
+Added Pin To Net: NetName=40 Pin=S1-4
+Added Pin To Net: NetName=40 Pin=T1-5
+Added Pin To Net: NetName=44 Pin=T1-6
+Change Net Name : Old Net Name=40 New Net Name=NetS1_4
+Change Net Name : Old Net Name=44 New Net Name=NetS1_3
+Added Member To Class: ClassName=Master Member=Component S1
+Added Room: Name=Master

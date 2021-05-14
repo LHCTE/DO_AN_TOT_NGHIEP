@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RX_2 Pin=S1-1
+Removed Pin From Net: NetName=TX_2 Pin=S1-2
+Removed Pin From Net: NetName=NetS1_4 Pin=T1-7
+Removed Pin From Net: NetName=NetS1_3 Pin=T1-8
+Added Pin To Net: NetName=TX_2 Pin=S1-1
+Added Pin To Net: NetName=RX_2 Pin=S1-2
+Added Pin To Net: NetName=NetS1_3 Pin=T1-7
+Added Pin To Net: NetName=NetS1_4 Pin=T1-8
+Added Member To Class: ClassName=Master Member=Component M2 VIT - 3.2mm
+Added Member To Class: ClassName=Master Member=Component M3 VIT - 3.2mm
+Added Member To Class: ClassName=Master Member=Component M4 VIT - 3.2mm
+Added Room: Name=Master
